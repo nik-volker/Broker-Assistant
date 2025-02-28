@@ -126,12 +126,4 @@ AI ассистент риэлтора — это интеллектуальны
 
 ## Установка и использование
 
-### Требования
-- Python 3.8+
-- Библиотеки: `flask`, `requests`, `json`, `dotenv`
-
-### Установка
-1. Клонируйте репозиторий:
-   ```bash
-   git clone https://github.com/your-repo/ai-real-estate-assistant.git
-   cd ai-real-estate-assistant
+Перейдите по ссылке в Telegram бота и переписывайтесь с ним как с живым ассистентом.
