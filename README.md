@@ -8,7 +8,7 @@ AI ассистент риэлтора — это интеллектуальны
 
 ---
 
-![Скриншот 1] (https://github.com/nik-volker/Broker-Assistant/blob/main/1.png?raw=true)
+![Скриншот 1](https://github.com/nik-volker/Broker-Assistant/blob/main/1.png?raw=true)
 
 ## Цели и задачи
 
